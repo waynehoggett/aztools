@@ -1,5 +1,5 @@
-# AzViz
-Set-Location -Path '..\..\..\Demos\AzViz'
+# Azure Visualizer (AzViz)
+Set-Location -Path 'C:\repos\aztools\Demos\Demos\AzViz\'
 
 # Install GraphViz Pre-req
 ## Using windows package manager

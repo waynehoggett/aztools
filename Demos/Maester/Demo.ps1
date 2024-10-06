@@ -1,5 +1,5 @@
 # Maester
-Set-Location '..\Demos\Maester'
+Set-Location 'C:\repos\aztools\Demos\Maester'
 
 # Install the Maester PowerShell module, Pester, and the out of the box tests.
 Install-Module Pester -SkipPublisherCheck -Force -Scope CurrentUser
